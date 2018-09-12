@@ -1,0 +1,5 @@
+Credentials cache: API:31923
+        Principal: nspanach@42.FR
+
+  Issued                Expires               Principal
+Jul 24 09:26:43 2018  Jul 24 19:26:43 2018  krbtgt/42.FR@42.FR
